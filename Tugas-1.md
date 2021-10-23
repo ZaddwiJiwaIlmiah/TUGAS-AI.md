@@ -1,4 +1,4 @@
-Step dalam membuat akun GitHub
+Tutorial membuat akun GitHub
 
 1. Tulis di google dengan pencarian https://github.com/
    Kemudian klik,Dan tunggu hingga situs bisa dibuka
