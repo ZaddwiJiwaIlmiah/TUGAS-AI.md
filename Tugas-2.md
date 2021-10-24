@@ -21,12 +21,17 @@ Jawaban Tugas Individu II
      Contohnya : java,C++
 7. Python : sederhana,tidak memakai (;) pada penulisan program,tidak memakai kurung kurawal{},identasi.
 8. Perbedaan antara IDE Dan Text editor
-   - IDE umumnya digunakan untuk compiled language pada C,C++ java dll.
+   - IDE umumnya digunakan untuk compiled language pada C,C++ java dll.sbagai compiler Dan text editor.
+     Contohnya : netbean(java)
    - Text editor digunakan untuk mengetik program,mengedit berkas,tidak bisa menerjemahkan atau mengompiler.
+     Contohnya : notepads++ dll.
+
    Selain itu text editor lebih ringan dalam penggunaaan nya namun pada IDE disediakan fitur yang lebih lengkap.
+     
 9. IDE untuk python : pycharm,Spyder
 
    Text editor python : VSC
+
 10. a. Bahasa yang alami,bahasa yang digunakan oleh manusia,Dan dalam kehidupan sehari hari.
 
     b. Langkah-langkah terstruktur dalam penyelesain masalah.
