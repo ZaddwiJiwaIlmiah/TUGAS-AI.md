@@ -11,4 +11,6 @@ Jawaban Tugas Individu II
    - pemrograman visual : berbasis GUI 
      contohnya : Appinventor, Microsoft visual basic,Dsb
 5. - Hardcode : merupakan suatu praktik pemanggilan source code,yang dimana SC tersebut tidak bisa diubah.
-     Contoh nya : 
+     Contohnya : ![image](https://github.com/ZaddwiJiwaIlmiah/TUGAS-AI.md/blob/dd8c07e7ede29db01a01a80dc762fb2b4269e14f/IMG_20211024_080836.jpg)
+   - softcode : dimana SC bisa diubah.
+     Contohnya : ![image](
