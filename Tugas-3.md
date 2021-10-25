@@ -32,6 +32,8 @@
 3. Extension adalah sebuah marketplace yang berisi plugin kemudian diinstal Ke teks editor.
    Contohnya : pylance.
 
+   ![IMG_20211025_202439](https://user-images.githubusercontent.com/93030333/138697460-9f524a04-4c1c-4bee-a55a-56dde1b38175.jpg)
+
    Pylance adalah server bahasa cepat yang menyediakan banyak fitur untuk membantu Anda menulis kode yang lebih baik, 
    termasuk impor otomatis, deteksi kode mati, informasi parameter dan tipe kembalian, dukungan untuk lingkungan produksi multi-root, dan banyak lagi.
    Penerapan pylance pada VSC :
