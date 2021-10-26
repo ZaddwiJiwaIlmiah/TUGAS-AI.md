@@ -13,4 +13,6 @@ Jawaban
 
   b.pada VSC
     
+![138613730-315d68bd-b886-46df-be66-e38d05f544b5](https://user-images.githubusercontent.com/93030333/138891428-8fd0f543-67bf-4ab2-a733-d433eab5fe8a.png)
+    
 
