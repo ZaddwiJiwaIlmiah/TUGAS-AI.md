@@ -10,7 +10,7 @@ Tutorial install flowgorithm :
    ![IMG-20211026-WA0018](https://user-images.githubusercontent.com/93030333/138950136-a607fcc1-2085-44ff-88ca-14eb7a9843b7.jpg)
 
 4.  Setelah itu kita bisa mengklik double file download flowgorithm tadi,
-   
+    ![IMG-20211026-WA0019](https://user-images.githubusercontent.com/93030333/138952367-1b8b6ac1-cc8e-43e2-a153-d449ffb9190d.jpg) 
 
 5. Tahap selanjutnya kita bisa mengestrack terlebih dahulu file tersebut kemudian bisa mengklik file.exe
    . ![IMG-20211026-WA0021](https://user-images.githubusercontent.com/93030333/138951687-75691b7c-2498-4518-8ee5-19ad22b5dbd7.jpg)
