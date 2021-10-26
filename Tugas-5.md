@@ -34,4 +34,22 @@ Tutorial install flowgorithm :
 Tutorial membuat "Hello World" di flowgorithm :
 
 1. Klik double pada shortcut flowgorithm,kemudian akan tampil tampilan layar utama flowgorithm.
-   
+   ![IMG-20211026-WA0024](https://user-images.githubusercontent.com/93030333/138955003-7b7dc419-07d3-4b59-b09e-9116dc14206a.jpg)
+
+2. Klik double "tanda panah" kemudian pilih opsi output di tampilan
+   ![IMG-20211026-WA0028](https://user-images.githubusercontent.com/93030333/138955086-60b86d64-3c56-4795-9090-c1b4f6d4ce3f.jpg)
+
+3. Setelah itu,akan tampil tampilan output
+   ![IMG-20211026-WA0029](https://user-images.githubusercontent.com/93030333/138955119-48f26815-1937-48e1-b0e5-d73c74a7bc68.jpg)
+
+4. Kemudian double klik pada output,Dan akan terdapat tampilan seperti dibawah
+   ![IMG-20211026-WA0030](https://user-images.githubusercontent.com/93030333/138955151-1647da01-e933-42fd-adbf-2f4404ab7df5.jpg)
+
+5. Setelah itu kita bisa menulis "Hello World"   
+   ![IMG-20211026-WA0033](https://user-images.githubusercontent.com/93030333/138955170-c8ce37b5-43d5-45de-8a20-0a2d6e1121cb.jpg)
+
+6. Dan "hello world" telah berada dalam ruang output.
+   ![IMG-20211026-WA0032](https://user-images.githubusercontent.com/93030333/138955215-c60f2f37-a6cd-4bd5-8d01-bf2a8d630b5b.jpg)
+
+7. Kemudian coba run,
+   ![IMG-20211026-WA0034](https://user-images.githubusercontent.com/93030333/138955244-ebfdb6fa-1680-4bd0-ae3d-16676abf7cce.jpg)
