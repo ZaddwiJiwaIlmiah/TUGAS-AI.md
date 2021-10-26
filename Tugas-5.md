@@ -13,4 +13,25 @@ Tutorial install flowgorithm :
     ![IMG-20211026-WA0019](https://user-images.githubusercontent.com/93030333/138952367-1b8b6ac1-cc8e-43e2-a153-d449ffb9190d.jpg) 
 
 5. Tahap selanjutnya kita bisa mengestrack terlebih dahulu file tersebut kemudian bisa mengklik file.exe
-   . ![IMG-20211026-WA0021](https://user-images.githubusercontent.com/93030333/138951687-75691b7c-2498-4518-8ee5-19ad22b5dbd7.jpg)
+   ![IMG-20211026-WA0021](https://user-images.githubusercontent.com/93030333/138951687-75691b7c-2498-4518-8ee5-19ad22b5dbd7.jpg)
+
+6. Setelah itu set up,kemudian next
+   ![IMG-20211026-WA0020](https://user-images.githubusercontent.com/93030333/138953108-9618e149-e0ac-4f8a-a0d3-95ad3d0dc8ba.jpg)
+
+7. Setelah itu pilih aggree untuk license,kemudian next
+   ![IMG-20211026-WA0025](https://user-images.githubusercontent.com/93030333/138953162-05765171-6f67-403d-a220-aa8a77f8eebc.jpg)
+
+8. Kemudian pilih just me jika kita hanya menggunakan sendiri,kemudian next
+   ![IMG-20211026-WA0022](https://user-images.githubusercontent.com/93030333/138953215-07f8773f-2475-4833-b561-5c20554edac6.jpg)
+
+9. Langkah selanjutnya,tunggu proses instalasi selesai, setelah selesai klik next.
+   ![IMG-20211026-WA0027](https://user-images.githubusercontent.com/93030333/138953480-3d82bc88-f09e-4a55-b9ce-587873e230fd.jpg)
+
+10.setelah proses selesai,klik close
+   ![IMG-20211026-WA0031](https://user-images.githubusercontent.com/93030333/138953338-acc06716-309c-4f60-b03f-fca3c553e3d0.jpg)
+   Dan proses instalasi selesai.
+
+Tutorial membuat "Hello World" di flowgorithm :
+
+1. Klik double pada shortcut flowgorithm,kemudian akan tampil tampilan layar utama flowgorithm.
+   
