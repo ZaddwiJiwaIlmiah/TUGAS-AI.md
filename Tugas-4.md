@@ -8,3 +8,9 @@ Jawaban
 
 3.Artinya mengeluarkan output berupa kalimat “hello world”.
 
+  a.pada terminal
+    ![138613727-c6ec3192-b61e-403e-b9d7-8dd4d6db7fc5](https://user-images.githubusercontent.com/93030333/138891074-e942f601-7d40-474a-8b67-c73fac220eeb.png)
+
+  b.pada VSC
+    
+
