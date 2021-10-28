@@ -24,3 +24,9 @@ Memecahkan masalah hingga menemukan solusi :
    
    a. 
    
+
+3. Kemudian algoritma yang dikerjakan di flowgorithm dibuat dalam bentuk kode kemudian dijalankan pada VSC
+
+   a. ![IMG-20211026-WA0035](https://user-images.githubusercontent.com/93030333/139208570-6ccc0965-dae3-477d-b2b9-012d6d4da4fe.jpg)
+
+   b. ![IMG-20211026-WA0036](https://user-images.githubusercontent.com/93030333/139208591-9d8d266e-f922-4143-8dd3-3001ae551abe.jpg)
