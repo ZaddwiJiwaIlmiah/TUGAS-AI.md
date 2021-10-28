@@ -21,8 +21,14 @@ Memecahkan masalah hingga menemukan solusi :
 2. Kemudian di coba run pada flowgorithm,karna pada soal masih belum terdapat solusi,
    Maka hasil yang ditemukan belum benar,sehingga diperbaiki sampai ditemukan solusi.
    namun gambar di bawah ini merupakan hasil dari algoritma yang sudah terdapat solusi :
-   
-   a. 
+
+   a. ![139074615-aa91b426-bda1-4713-bb38-a574a783ea53](https://user-images.githubusercontent.com/93030333/139231631-b7fa6f1e-23d0-485d-87fb-73bca55174e6.png)
+
+   b. ![139074653-fe222fcb-7c0d-4ea8-a049-c93bbc62eed8](https://user-images.githubusercontent.com/93030333/139231590-945c277c-b4de-496b-b0fc-e13147307585.png)
+
+
+
+
 
    
 
