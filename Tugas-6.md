@@ -23,6 +23,7 @@ Memecahkan masalah hingga menemukan solusi :
    namun gambar di bawah ini merupakan hasil dari algoritma yang sudah terdapat solusi :
    
    a. 
+
    
 
 3. Kemudian algoritma yang dikerjakan di flowgorithm dibuat dalam bentuk kode kemudian dijalankan pada VSC
