@@ -42,3 +42,5 @@ Jadi jarak tempuh rumah pak ke UTS Adalah 600km
    B. Jalankan pada flowgorithm :
       ![IMG-20211030-WA0015](https://user-images.githubusercontent.com/93030333/139534407-d3f86e7f-8264-42a7-adab-4053fd4bce89.jpg)
 
+   C. Dan tulis ulang code algoritma pada VSC dengan tipe file.py kemudian jalankan
+      ![IMG-20211030-WA0051](https://user-images.githubusercontent.com/93030333/139534572-63650613-10d3-4de3-b096-e6dbaaf44ea0.jpg)
