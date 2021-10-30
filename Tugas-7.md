@@ -32,3 +32,13 @@ Jadi kecepatan yang dibutuhkan Rossi adalah 140 km/jam
 
    D. Hasil dari kode .py setelah di run di VSC
      ![IMG-20211030-WA0004](https://user-images.githubusercontent.com/93030333/139533727-29021120-4c69-4bbb-bd65-10696a0add5e.jpg)
+Jadi jarak tempuh rumah pak ke UTS Adalah 600km
+
+1.c. waktu yang harus di gunakan pak Yunan dalam menempuh jarak 50km dengan kecepatan 180km/jam
+
+   A. Tulis algoritma nya dalam flowgorithm
+      ![IMG-20211030-WA0016](https://user-images.githubusercontent.com/93030333/139534380-5e0c5a40-4379-4068-a4bc-7242f42541d6.jpg)
+    
+   B. Jalankan pada flowgorithm :
+      ![IMG-20211030-WA0015](https://user-images.githubusercontent.com/93030333/139534407-d3f86e7f-8264-42a7-adab-4053fd4bce89.jpg)
+
