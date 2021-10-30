@@ -22,9 +22,13 @@ Jadi kecepatan yang dibutuhkan Rossi adalah 140 km/jam
      Kemudian buat dalam bentuk algoritma pada flowgorithm
    
    A. Gambar algoritma dalam flowgorithm
+     ![IMG-20211030-WA0006](https://user-images.githubusercontent.com/93030333/139533695-a49b07d6-c197-483d-814f-b7c30891b8be.jpg)
 
    B. Hasil dari algoritma setelah di jalankan
+     ![IMG-20211030-WA0011](https://user-images.githubusercontent.com/93030333/139533701-8065eead-9460-482c-8ce9-d28e2ced723d.jpg)
 
    C. Code algoritma yang dikeruk kembali pada VSC dengan tipe file .py
+     ![IMG-20211030-WA0005](https://user-images.githubusercontent.com/93030333/139533711-09914f17-5c6e-4a25-9a4e-51768ae9edef.jpg)
 
    D. Hasil dari kode .py setelah di run di VSC
+     ![IMG-20211030-WA0004](https://user-images.githubusercontent.com/93030333/139533727-29021120-4c69-4bbb-bd65-10696a0add5e.jpg)
