@@ -45,3 +45,44 @@ Maka hasil dari debit air telah ditemukan
     ![IMG-20211031-WA0019](https://user-images.githubusercontent.com/93030333/139584260-c42cdd26-95d0-47b9-bed8-0da64ac64298.jpg)
 
 Dan hasil volume yang di cari telah ditemukan.
+
+Cara ke dua
+1. Secara manual
+   a. Ketik algoritma pada flowgorithm
+     ![IMG-20211031-WA0011](https://user-images.githubusercontent.com/93030333/139586893-a260cd5b-6282-4306-8169-72ff70bfae81.jpg)
+
+   b. Kemudian jalankan 
+     ![IMG-20211031-WA0026](https://user-images.githubusercontent.com/93030333/139586949-65d7b944-b512-4301-8420-b94d0ec8796f.jpg)
+
+   c. Ketik ulang pada VSC
+     ![IMG-20211031-WA0032](https://user-images.githubusercontent.com/93030333/139586968-26755743-39ef-435d-bb43-b2d64890ed69.jpg)
+
+   d. Kemudian jalankan kembali pada VSC
+     ![IMG-20211031-WA0029](https://user-images.githubusercontent.com/93030333/139587017-b8511cd2-7f15-486b-867e-1f3f4a7792ae.jpg)
+Dan hasil nya telah ditemukan.
+
+2. a. Buat algoritma dalam flowgorithm
+     ![IMG-20211031-WA0012](https://user-images.githubusercontent.com/93030333/139587073-8d5fb7cf-4738-4284-802d-98236d6757c7.jpg)
+
+   b. Kemudian jalankan
+     ![IMG-20211031-WA0028](https://user-images.githubusercontent.com/93030333/139587111-f8f7a253-65d5-41b0-a535-7e0b295fa41e.jpg)
+
+   c. Kemudian ketik kembali code algoritma pada VSC
+     ![IMG-20211031-WA0021](https://user-images.githubusercontent.com/93030333/139587143-eafb969b-e370-4c7c-a4ef-8e7d655be7da.jpg)
+
+   d. Dan jalankan
+     ![IMG-20211031-WA0031](https://user-images.githubusercontent.com/93030333/139587167-01e7519e-868b-40cc-b7b2-a05d1aa37be6.jpg)
+
+dan hasil nya telah di temukan
+
+3. a. Buat algoritma dalam flowgorithm
+      ![IMG-20211031-WA0013](https://user-images.githubusercontent.com/93030333/139587183-d880f2ca-63b1-4efb-9874-79c470a15b2a.jpg)
+
+   b. Kemudian jalankan
+      ![IMG-20211031-WA0027](https://user-images.githubusercontent.com/93030333/139587215-1411bfaf-19be-455e-8047-77c29b1936b8.jpg)
+
+   c. Salin code algoritma pada VSC
+      ![IMG-20211031-WA0034](https://user-images.githubusercontent.com/93030333/139587227-438b76cd-06a6-4aeb-be38-35355edf795a.jpg)
+
+   d. Kemudian jalankan
+      ![IMG-20211031-WA0030](https://user-images.githubusercontent.com/93030333/139587278-4098fd85-b6ee-4f18-bd73-7b8b4fefd355.jpg)
